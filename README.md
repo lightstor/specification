@@ -1,4 +1,4 @@
-specification
+LightStor Storage Fabric
 =============
 
-LightStor Standard Documentation
+Standards Documentation
