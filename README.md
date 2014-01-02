@@ -1,0 +1,4 @@
+specification
+=============
+
+LightStor Standard Documentation
